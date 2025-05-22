@@ -1,0 +1,24 @@
+﻿#Ieejas slānis
+x0:x4=w1=0.12,x5=w2=0.3
+x1:x4=w3=0.18,x5=w4=0.14
+x2:x4=w5=0.25,x5=w6=0.11
+
+#Slēptais slānis
+x3:x6=w7=0.5
+x4:x6=w8=0.67
+x5:x6=w9=0.6
+
+#Izejas slānis
+x6
+
+#Ieejas vektori
+x0=1,x1=0.7,x2=3.8
+
+#Izejas vērtība
+0.27
+
+#Apmācības ātrums
+0.53
+
+#Nobīdes koeficients
+x3=1
